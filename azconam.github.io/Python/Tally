@@ -1178,25 +1178,25 @@ color:black;mso-themecolor:text1'>Feature<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;mso-list:l0 level1 lfo1'><![if !supportLists]><span
 style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;color:black;mso-themecolor:text1'><span style='mso-list:Ignore'>·<span
+Symbol;color:black;mso-themecolor:text1'><span style='mso-list:Ignore'>√°<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 style='color:black;mso-themecolor:text1'>Simple way to count voters<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l0 level1 lfo1'><![if !supportLists]><span
 style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;color:black;mso-themecolor:text1'><span style='mso-list:Ignore'>·<span
+Symbol;color:black;mso-themecolor:text1'><span style='mso-list:Ignore'>√°<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 style='color:black;mso-themecolor:text1'>County, State, Country setup<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l0 level1 lfo1'><![if !supportLists]><span
 style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;color:black;mso-themecolor:text1'><span style='mso-list:Ignore'>·<span
+Symbol;color:black;mso-themecolor:text1'><span style='mso-list:Ignore'>√°<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 style='color:black;mso-themecolor:text1'>Methods to compare voters<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l0 level1 lfo1'><![if !supportLists]><span
 style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol;color:black;mso-themecolor:text1'><span style='mso-list:Ignore'>·<span
+Symbol;color:black;mso-themecolor:text1'><span style='mso-list:Ignore'>√°<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 style='color:black;mso-themecolor:text1'>Methods to forecast elections<o:p></o:p></span></p>
 
@@ -1343,7 +1343,7 @@ mso-bidi-font-weight:bold'>Reading values</span></i><i><span style='font-size:
 14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman";mso-fareast-font-family:
 "Times New Roman";color:black;mso-themecolor:text1'><o:p></o:p></span></i></h3>
 
-<p style='background:white'><span style='color:black;mso-themecolor:text1'>Voters’
+<p style='background:white'><span style='color:black;mso-themecolor:text1'>Voters√ï
 demographics are accessible by simply:<o:p></o:p></span></p>
 
 <pre style='margin-top:0in;margin-right:24.0pt;margin-bottom:0in;margin-left:
@@ -1385,7 +1385,7 @@ font-family:"Times New Roman";color:black;mso-themecolor:text1'>&gt;&gt;&gt; <sp
 class=SpellE><span class=GramE>x.race</span></span><o:p></o:p></span></pre>
 
 <p style='background:white'><span style='color:black;mso-themecolor:text1'>A
-note: due to Python’s design of dynamic typing, a voter’s age has been set to 0
+note: due to Python√ïs design of dynamic typing, a voter√ïs age has been set to 0
 by default. <o:p></o:p></span></p>
 
 <h3 style='margin-top:4.8pt;mso-line-height-alt:12.0pt;background:white'><i><span
@@ -1405,7 +1405,7 @@ class=SpellE>x.age</span> = 30<o:p></o:p></span></pre><pre style='margin-top:
 0in;margin-right:24.0pt;margin-bottom:0in;margin-left:24.0pt;margin-bottom:
 .0001pt;background:#F0F0F0'><span style='font-size:12.0pt;font-family:"Times New Roman";
 color:black;mso-themecolor:text1'>&gt;&gt;&gt; <span class=SpellE><span
-class=GramE>x.party</span></span> = ‘I’<o:p></o:p></span></pre>
+class=GramE>x.party</span></span> = √îI√ï<o:p></o:p></span></pre>
 
 <h3 style='margin-top:4.8pt;mso-line-height-alt:12.0pt;background:white'><b><i><span
 style='font-size:15.0pt;font-family:"Times New Roman";mso-fareast-font-family:
@@ -1452,7 +1452,7 @@ style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>60%<o:
 style='color:black;mso-themecolor:text1'><o:p>&nbsp;</o:p></span></i></p>
 
 <p style='background:white'><i style='mso-bidi-font-style:normal'><span
-style='color:black;mso-themecolor:text1'>These are a few examples of Tally’s
+style='color:black;mso-themecolor:text1'>These are a few examples of Tally√ïs
 features. For a complete list of features, consult the code source
 documentation.<o:p></o:p></span></i></p>
 
