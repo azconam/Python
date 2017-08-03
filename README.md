@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
+tally 0.2.0
 
-<head>
-  <title> Page tally 0.2.0 </title>
-</head>
-
-
-<body>
 
 A program for political scientists that counts and analyzes voters
 based on demographic factors
@@ -77,7 +70,6 @@ by party distribution:
 Democrats: 20%	Republicans:	20%	Independents:	60%
 
 The content of the document......
-</body>
 
 
 These are a few examples of Tally’s features. For a complete list of features, consult the code source documentation.
@@ -104,5 +96,3 @@ o	Programming Language :: Python :: 3.5
 o	Programming Language :: Python :: 3.6
 o	Topic :: Software Development :: Libraries :: Python Modules
 1
-
-</html>
